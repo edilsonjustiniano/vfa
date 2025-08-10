@@ -2,8 +2,8 @@
 
 ## Project
 
-The project was split in a few repositories, the [User Management](https://github.com/edilsonjustiniano/vale-food-user-management)
-, [Restaurant Management](https://github.com/edilsonjustiniano/vale-food-restaurant-management) and [Authenticator](https://github.com/edilsonjustiniano/vale-food-restaurant-management).
+The project was split in a few repositories, the [User Management](https://github.com/edilsonjustiniano/vfu)
+, [Restaurant Management](https://github.com/edilsonjustiniano/vfr) and [Authenticator](https://github.com/edilsonjustiniano/vfa).
 
 ## Overview 
 
